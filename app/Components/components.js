@@ -1,17 +1,21 @@
 import Link from "next/link";
 import React from "react";
 import "../globals.css";
+
 export default function NavBar() {
   return (
     <main className="NavCont">
       <div>
-        <Link className="fa-solid fa-house" href="./">
+        <Link className="fa-solid fa-house" href="../">
           <br></br>
           <p className="fa-solid">HOME</p>
         </Link>
       </div>
       <div>
-        <Link className="fa-solid fa-camera" href="./Photos">
+        <p className="font-serif">MINI BLOG</p>
+      </div>
+      <div>
+        <Link className="fa-solid fa-camera" href="../Photos">
           <br></br>
           <p className="fa-solid">PHOTOS</p>
         </Link>
