@@ -40,7 +40,7 @@ export default function Photos() {
           </div>
           <Image
             className="Image"
-            src="/images/Paris/Paris1.png"
+            src="/images/Paris1.png"
             unoptimized
             width={300}
             height={300}
