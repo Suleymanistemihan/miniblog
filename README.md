@@ -1,3 +1,2 @@
-#Mini Blog
-
-##Using with NextJS
+# MINI BLOG
+### Using with NextJS
