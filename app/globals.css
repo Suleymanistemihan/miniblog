@@ -13,7 +13,7 @@
 .Body {
   background-color: white;
   border: 1px solid black;
-  width: 50%;
+  width: 70%;
   height: 800px;
   display: flex;
   flex-direction: column;
