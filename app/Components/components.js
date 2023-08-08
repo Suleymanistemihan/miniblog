@@ -11,7 +11,7 @@ export default function NavBar() {
         </Link>
       </div>
       <div>
-        <Link className="fa-solid fa-camera" href="./About">
+        <Link className="fa-solid fa-camera" href="./Photos">
           <br></br>
           <p className="fa-solid">PHOTOS</p>
         </Link>
