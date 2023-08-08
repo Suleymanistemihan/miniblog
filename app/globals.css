@@ -8,7 +8,7 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-color: gainsboro;
+  background-color: rgb(204, 204, 204);
 }
 .Body {
   border: 1px solid black;
